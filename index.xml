@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shinonome-Lab on Shinonome-Lab</title>
-    <link>http://example.org/</link>
+    <link>http://rs305.top/</link>
     <description>Recent content in Shinonome-Lab on Shinonome-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Posts</title>
-      <link>http://example.org/posts/</link>
+      <link>http://rs305.top/posts/</link>
       <pubDate>Tue, 10 Sep 2019 08:43:42 +0800</pubDate>
       
-      <guid>http://example.org/posts/</guid>
+      <guid>http://rs305.top/posts/</guid>
       <description></description>
     </item>
     
